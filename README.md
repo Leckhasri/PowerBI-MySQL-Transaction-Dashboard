@@ -26,4 +26,4 @@ This project showcases a Power BI Dashboard built using a MySQL database contain
 ---
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](screenshot.png)
